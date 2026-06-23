@@ -29,5 +29,5 @@ The physical prototype was fabricated and tested in the laboratory using an osci
 ## 4. File Guide
 * `NE555_ChargePump_Simulation.asc`: Local LTspice transient simulation file.
 * `Gamidov.dch` / `Gamidov.dip`: DipTrace schematic and hardware PCB layout design files.
-* `Gamidov.zip`: Production-ready Gerber and NC Drill manufacturing bundle for automated PCB fabrication.
+* `GerberFiles`: Production-ready Gerber and NC Drill manufacturing bundle for automated PCB fabrication.
 * [cite_start]`Hardware_Implementation_Report.pdf`: Lab report covering the physical board assembly, oscilloscope waveforms, and efficiency metrics[cite: 220].
